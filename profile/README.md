@@ -2,7 +2,7 @@
 
 ## Welcome to my lair where I keep my projects somehow related to Doom.
 
-You can understand by the prefix in the repository name to see what is stored there:
+### You can understand by the prefix in the repository name to see what is stored there:
 - `MOD-` - This repository contains the gameplay mod;
 - `WAD-` - This repository stores a map or an entire megawad;
 - `RES-` - This repository stores resources I've created for later use in mapping or modding.
