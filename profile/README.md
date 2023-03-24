@@ -15,7 +15,7 @@
   - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
 - WADs (`WAD-`):
   - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
-  - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED```
+  - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
   - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
   - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: 🏁WORK IN PROGRESS```
