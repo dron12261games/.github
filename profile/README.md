@@ -24,4 +24,4 @@
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED```
 
 ### To other authors of their projects:
-You can take whatever you want from the repository for your projects, BUT you must put my authorship in your project, and if my project that you take something from also has its `CREDITS.txt` with the description of other authors, you must necessarily study it and put the corresponding authorship of the resource that you take from the project. There is no need to ask me for any permission, just try to adhere to this rule, it will be more than enough.
+You can take whatever you want from the repository for your projects, BUT you must put my authorship in your project, AND if my project that you take something from also has its `CREDITS.txt` with the description of other authors, you must necessarily study it and put the corresponding authorship of the resource that you take from the project. There is no need to ask me for any permission, just try to adhere to this rule, it will be more than enough.
