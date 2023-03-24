@@ -12,6 +12,7 @@
   - DOOM Death Calls ```STATUS: 🏁WORK IN PROGRESS``` | ```MY MAIN PROJECT```
     - My main project. Not yet available to the public, but keep it in mind.
   - [Complex Doom Enchanced](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Enchanced) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v1```
+  - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
 - WADs (`WAD-`):
   - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
   - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED```
