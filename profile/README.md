@@ -11,6 +11,7 @@
 - Mods (`MOD-`):
   - DOOM Death Calls ```STATUS: 🏁WORK IN PROGRESS``` | ```MY MAIN PROJECT```
     - My main project. Not yet available to the public, but keep it in mind.
+  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS```
   - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
 - WADs (`WAD-`):
   - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
@@ -18,9 +19,12 @@
   - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
   - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
+  - [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
 - Resources (`RES-`):
   - [Lighting Textures](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
+  - [ColossalDTex](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
 
 ### To other authors of their projects:
 You can take whatever you want from the repository for your projects, BUT you must put my authorship in your project, AND if my project that you take something from also has its `CREDITS.txt` with the description of other authors, you must necessarily study it and put the corresponding authorship of the resource that you take from the project. There is no need to ask me for any permission, just try to adhere to this rule, it will be more than enough.
