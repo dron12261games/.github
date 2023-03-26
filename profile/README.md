@@ -11,7 +11,7 @@
 - Mods (`MOD-`):
   - DOOM Death Calls ```STATUS: 🏁WORK IN PROGRESS``` | ```MY MAIN PROJECT```
     - My main project. Not yet available to the public, but keep it in mind.
-  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest pre-release: v0.1```
   - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
 - WADs (`WAD-`):
   - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
