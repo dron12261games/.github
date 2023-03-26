@@ -17,7 +17,7 @@
   - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
   - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
 - Resources (`RES-`):
   - [Lighting Textures](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
