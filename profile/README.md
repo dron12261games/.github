@@ -21,6 +21,9 @@
   - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
   - [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare) ```STATUS: 🏁WORK IN PROGRESS```
   - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
+  - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Scythe Reforged](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Scythe-Reforged) ```STATUS: 🏁WORK IN PROGRESS```
 - Resources (`RES-`):
   - [Lighting Textures](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
