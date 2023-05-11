@@ -9,21 +9,21 @@
 
 ### List of my projects:
 - Mods (`MOD-`):
+  - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
+  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest pre-release: v0.1```
   - DOOM Death Calls ```STATUS: 🏁WORK IN PROGRESS``` | ```MY MAIN PROJECT```
     - My main project. Not yet available to the public, but keep it in mind.
-  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest pre-release: v0.1```
-  - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
 - WADs (`WAD-`):
-  - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
   - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
-  - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
-  - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
-  - [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
   - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
-  - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: 🏁WORK IN PROGRESS```
+  - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
+  - [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
   - [Scythe Reforged](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Scythe-Reforged) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: 🏁WORK IN PROGRESS```
+  - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
+  - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
 - Resources (`RES-`):
   - [Lighting Textures](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
