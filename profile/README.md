@@ -18,6 +18,7 @@
   - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
   - [DRON12261 DM Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest Version: v4```
   - [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Purity of Fame](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Purity-of-Fame) ```STATUS: 🏁WORK IN PROGRESS```
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
   - [Scythe Reforged](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Scythe-Reforged) ```STATUS: 🏁WORK IN PROGRESS```
   - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
