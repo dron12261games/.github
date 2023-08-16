@@ -30,7 +30,7 @@
   - [Lighting Textures](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [DRON12261 Announcer](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [ColossalDTex [8200+ Texture Pack]](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex) ```STATUS: 🏁WORK IN PROGRESS```
-- Software (`SFT-`)
+- Software (`SFT-`):
   - [Dron's Doom Utils](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/SFT-DronsDoomUtils) ```STATUS: ✅RELEASED``` | ```Latest Version: v0.1```
 
 ### To other authors of their projects:
