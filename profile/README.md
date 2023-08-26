@@ -22,8 +22,8 @@
   - [Purity of Fame](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Purity-of-Fame) ```STATUS: 🏁WORK IN PROGRESS```
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🏁WORK IN PROGRESS```
   - [Scythe Reforged](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Scythe-Reforged) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: 🏁WORK IN PROGRESS```
+  - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: ⛔ABANDONED/FROZEN```
+  - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: ⛔ABANDONED/FROZEN```
   - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔ABANDONED/FROZEN```
   - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔ABANDONED/FROZEN```
 - Resources (`RES-`):
