@@ -28,6 +28,8 @@
   - [Remember 2 it](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Remember-2-it) ```STATUS: 🧊FROZEN```
   - [Scythe Reforged](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Scythe-Reforged) ```STATUS: 🧊FROZEN```
   - [Welcome64](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Welcome64) ```STATUS: 🧊FROZEN```
+  - [Go 2 Id](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Go-2-Id) ```STATUS: 🧊FROZEN```
+  - [Construction 1024 MAP07](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Construction-1024-MAP07) ```STATUS: 🧊FROZEN```
   - [Map for Blocked-Out Community Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Blocked-Out) ```STATUS: ⛔CANCELLED```
   - [The Dark Side of Phobos REMAKE](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-TDSOP-Remake) ```STATUS: ⛔CANCELLED```
   - [Maps for Nomakh's Mapping Workshop Project](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-NMW-Maps) ```STATUS: ⛔CANCELLED```
