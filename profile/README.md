@@ -11,7 +11,7 @@
 ### List of my projects:
 - Mods (`MOD-`):
   - [VHS&CRT Shader Mod](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
-  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🏁WORK IN PROGRESS``` | ```Latest pre-release: v0.1```
+  - [Complex Doom Evolved](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved) ```STATUS: 🧊FROZEN``` | ```Latest pre-release: v0.1```
   - DOOM Death Calls ```STATUS: 🧊FROZEN``` | ```MY MAIN PROJECT```
     - My main project. Not yet available to the public, but keep it in mind.
 - WADs (`WAD-`):
