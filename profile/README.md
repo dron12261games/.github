@@ -22,7 +22,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - WADs (`WAD-`):
   - [DOOM PSX: Damnation of Eternity (🏆EMC2024 Winner🥈🏆)](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024) ```STATUS: ✅RELEASED```
   - [Scythe Reforged](https://github.com/dron12261games/WAD-Scythe-Reforged) ```STATUS: ✅RELEASED```
-  - [Construction 1024 (MAP07)](https://github.com/dron12261games/WAD-Construction-1024-MAP07) ```STATUS: ✅RELEASED```
+  - [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) ```STATUS: ✅RELEASED```
   - [Hotel of the Dead](https://github.com/dron12261games/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
   - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
   - [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) ```STATUS: ✅RELEASED```
