@@ -54,7 +54,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [OTEX Extra Textures](https://github.com/dron12261games/RES-OTEX-EXTRA) ```STATUS: 🧊FROZEN```
 - Software (`SFT-`):
   - [Dron's Doom Utils](https://github.com/dron12261games/SFT-DronsDoomUtils) ```STATUS: 📦EARLY RELEASE``` | ```Latest Version: v0.2```
-  - [GZDoom Classic[Correctly Preconfigured Build]](https://github.com/dron12261games/SFT-GZDoom-Classic) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
+  - [GZDoom Classic [Correctly Preconfigured Build]](https://github.com/dron12261games/SFT-GZDoom-Classic) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
 - Community Projects (`CPL-`):
   - [Russian Random Speedmap Pack #1](https://github.com/dron12261games/CPL-RRSP1)  ```STATUS: ✅RELEASED```
   - [Russian Random Speedmap Pack #2](https://github.com/dron12261games/CPL-RRSP2)  ```STATUS: ✅RELEASED```
