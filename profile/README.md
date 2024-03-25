@@ -15,7 +15,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
 
 ### List of my projects:
 - Mods (`MOD-`):
-  - [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
+  - [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) ```STATUS: ✅RELEASED``` | ```Latest Version: v5```
   - [VHS&CRT Shader Mod](https://github.com/dron12261games/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
   - [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) ```STATUS: 🧊FROZEN``` | ```Latest pre-release: v0.1```
   - DOOM Death Calls ```STATUS: 🧊FROZEN``` | ```PUBLICLY UNAVAILABLE```
@@ -27,6 +27,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
   - [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) ```STATUS: ✅RELEASED```
   - [Light! Camera! BOOM!](https://github.com/dron12261games/WAD-Light-Camera-BOOM) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
+  - [Quaked in Heat](https://github.com/dron12261games/WAD-Quaked-in-Heat) ```STATUS: ✅RELEASED```
   - [ShovelDM Maps (MAP02, MAP05, MAP09)](https://github.com/dron12261games/WAD-ShovelDM-Maps) ```STATUS: ✅RELEASED```
   - [Monumentum](https://github.com/dron12261games/WAD-Monumentum) ```STATUS: ✅RELEASED```
   - [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) ```STATUS: 📦EARLY RELEASE``` | ```Latest Version: v4```
