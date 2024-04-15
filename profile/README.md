@@ -1,4 +1,4 @@
-# Doom Mapping/Modding Lair [DRON12261]
+# Doom Mapping/Modding Lair [[DRON12261](https://doomwiki.org/wiki/Andrey_Skochko_(DRON12261))]
 
 ## Welcome to my lair where I keep my projects somehow related to Doom.
 
