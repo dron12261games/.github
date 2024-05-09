@@ -12,6 +12,9 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - `SFT-` - This repository contains some software related to Doom.
 - `CPL-` - This repository contains community projects hosted by me.
 - `GFT-` - This repository contains projects not made by me, but made as a gift for me by the community.
+- `OTH-` - This repository contains all sorts of other things.
+
+Updated as of `9 May 2024`.
 
 ### List of my projects:
 - Mods (`MOD-`):
@@ -27,7 +30,6 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
   - [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) ```STATUS: ✅RELEASED```
   - [Light! Camera! BOOM!](https://github.com/dron12261games/WAD-Light-Camera-BOOM) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
-  - [Quaked in Heat](https://github.com/dron12261games/WAD-Quaked-in-Heat) ```STATUS: ✅RELEASED```
   - [ShovelDM Maps (MAP02, MAP05, MAP09)](https://github.com/dron12261games/WAD-ShovelDM-Maps) ```STATUS: ✅RELEASED```
   - [Monumentum](https://github.com/dron12261games/WAD-Monumentum) ```STATUS: ✅RELEASED```
   - [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) ```STATUS: 📦EARLY RELEASE``` | ```Latest Version: v4```
@@ -39,6 +41,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [MidNightmare](https://github.com/dron12261games/WAD-MidNightmare) ```STATUS: 🧊FROZEN```
   - [Purity of Fame](https://github.com/dron12261games/WAD-Purity-of-Fame) ```STATUS: 🧊FROZEN```
   - [Remember 2 it](https://github.com/dron12261games/WAD-Remember-2-it) ```STATUS: 🧊FROZEN```
+  - [Egeon's Awakening](https://github.com/dron12261games/WAD-Egeons-Awakening) ```STATUS: 🧊FROZEN```
   - [Welcome64](https://github.com/dron12261games/WAD-Welcome64) ```STATUS: ⛔CANCELLED```
   - [Map for Blocked-Out Community Project](https://github.com/dron12261games/WAD-Blocked-Out) ```STATUS: ⛔CANCELLED```
   - [The Dark Side of Phobos REMAKE](https://github.com/dron12261games/WAD-TDSOP-Remake) ```STATUS: ⛔CANCELLED```
@@ -50,6 +53,8 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [WraithCorp Textures](https://github.com/dron12261games/RES-WraithCorpTex) ```STATUS: ✅RELEASED```
   - [DOOM PSX Textures](https://github.com/dron12261games/RES-PSXTex) ```STATUS: ✅RELEASED```
   - [Lighting Textures](https://github.com/dron12261games/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
+  - [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) ```STATUS: ✅RELEASED``` | ```Latest Version: Beta 2 fix 2```
+  - [CyberTechTEX](https://github.com/dron12261games/RES-CyberTechTEX) ```STATUS: ✅RELEASED```
   - [DRON12261 Announcer](https://github.com/dron12261games/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
   - [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) ```STATUS: 🏁WORK IN PROGRESS```
   - [OTEX Extra Textures](https://github.com/dron12261games/RES-OTEX-EXTRA) ```STATUS: 🧊FROZEN```
@@ -62,3 +67,6 @@ You can take whatever you want from the repository for your projects, BUT you mu
   - [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3)  ```STATUS: 🧊FROZEN```
 - Gifts for me (`GFT-`):
   - [Gift for DRON12261](https://github.com/dron12261games/GFT-Gift-for-DRON12261) ```STATUS: ✅RELEASED```
+- Other (`OTH-`):
+  - [Demo walkthroughs by DRON12261](https://github.com/dron12261games/OTH-Demos-by-DRON12261) ```STATUS: 💼STORAGE ONLY```
+  - [Other random unreleased/unfinished/test things](https://github.com/dron12261games/OTH-My-Random-Stuff) ```STATUS: 💼STORAGE ONLY```
