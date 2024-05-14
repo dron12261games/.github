@@ -18,7 +18,7 @@ Updated as of `9 May 2024`.
 
 ### List of my projects:
 - Mods (`MOD-`):
-  - [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) ```STATUS: ✅RELEASED``` | ```Latest Version: v5```
+  - [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) ```STATUS: ✅RELEASED``` | ```Latest Version: v6```
   - [VHS&CRT Shader Mod](https://github.com/dron12261games/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
   - [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) ```STATUS: 🧊FROZEN``` | ```Latest pre-release: v0.1```
   - DOOM Death Calls ```STATUS: 🧊FROZEN``` | ```PUBLICLY UNAVAILABLE```
