@@ -70,3 +70,8 @@ Updated as of `9 May 2024`.
 - Other (`OTH-`):
   - [Demo walkthroughs by DRON12261](https://github.com/dron12261games/OTH-Demos-by-DRON12261) ```STATUS: 💼STORAGE ONLY```
   - [Other random unreleased/unfinished/test things](https://github.com/dron12261games/OTH-My-Random-Stuff) ```STATUS: 💼STORAGE ONLY```
+
+### If you want to support me and my creativity:
+Donation Alerts: https://www.donationalerts.com/r/dron12261
+
+<img src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" data-canonical-src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" width="200" height="200" />
