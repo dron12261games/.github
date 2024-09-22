@@ -64,7 +64,7 @@ Updated as of `9 May 2024`.
 - Community Projects (`CPL-`):
   - [Russian Random Speedmap Pack #1](https://github.com/dron12261games/CPL-RRSP1)  ```STATUS: ✅RELEASED```
   - [Russian Random Speedmap Pack #2](https://github.com/dron12261games/CPL-RRSP2)  ```STATUS: ✅RELEASED```
-  - [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3)  ```STATUS: 🧊FROZEN```
+  - [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3)  ```STATUS: ✅RELEASED```
 - Gifts for me (`GFT-`):
   - [Gift for DRON12261](https://github.com/dron12261games/GFT-Gift-for-DRON12261) ```STATUS: ✅RELEASED```
 - Other (`OTH-`):
