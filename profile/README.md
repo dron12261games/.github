@@ -16,62 +16,88 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - `GFT-` - This repository contains projects not made by me, but made as a gift for me by the community.
 - `OTH-` - This repository contains all sorts of other things.
 
-Updated as of `9 May 2024`.
+Updated as of `16 December 2024`.
 
 ### List of my projects:
-- Mods (`MOD-`):
-  - [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) ```STATUS: ✅RELEASED``` | ```Latest Version: v6```
-  - [VHS&CRT Shader Mod](https://github.com/dron12261games/MOD-VHS-CRT-Shader-by-DRON12261) ```STATUS: ✅RELEASED``` | ```Latest Version: v2```
-  - [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) ```STATUS: 🧊FROZEN``` | ```Latest pre-release: v0.1```
-  - DOOM Death Calls ```STATUS: 🧊FROZEN``` | ```PUBLICLY UNAVAILABLE```
-- WADs (`WAD-`):
-  - [DOOM PSX: Damnation of Eternity (🏆EMC2024 Winner🥈🏆)](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024) ```STATUS: ✅RELEASED```
-  - [Scythe Reforged](https://github.com/dron12261games/WAD-Scythe-Reforged) ```STATUS: ✅RELEASED```
-  - [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) ```STATUS: ✅RELEASED```
-  - [Hotel of the Dead](https://github.com/dron12261games/WAD-Hotel-of-the-Dead) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
-  - [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) ```STATUS: ✅RELEASED```
-  - [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) ```STATUS: ✅RELEASED```
-  - [Light! Camera! BOOM!](https://github.com/dron12261games/WAD-Light-Camera-BOOM) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
-  - [ShovelDM Maps (MAP02, MAP05, MAP09)](https://github.com/dron12261games/WAD-ShovelDM-Maps) ```STATUS: ✅RELEASED```
-  - [Monumentum](https://github.com/dron12261games/WAD-Monumentum) ```STATUS: ✅RELEASED```
-  - [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) ```STATUS: 📦EARLY RELEASE``` | ```Latest Version: v4```
-  - [The Living Abyss on my Painting](https://github.com/dron12261games/WAD-The-Living-Abyss-in-my-Painting) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) ```STATUS: 🏁WORK IN PROGRESS```
-  - [DOOM PSX: Frontier of Agony](https://github.com/dron12261games/WAD-DOOM-PSX-Frontier-of-Agony) ```STATUS: 🏁WORK IN PROGRESS```
-  - [Eternity Engine Colormaps Tech Demo](https://github.com/dron12261games/WAD-Eternity-Engine-Colormaps-Tech-Demo) ```STATUS: 🏁WORK IN PROGRESS```
-  - [MidNightmare](https://github.com/dron12261games/WAD-MidNightmare) ```STATUS: 🧊FROZEN```
-  - [Purity of Fame](https://github.com/dron12261games/WAD-Purity-of-Fame) ```STATUS: 🧊FROZEN```
-  - [Remember 2 it](https://github.com/dron12261games/WAD-Remember-2-it) ```STATUS: 🧊FROZEN```
-  - [Egeon's Awakening](https://github.com/dron12261games/WAD-Egeons-Awakening) ```STATUS: 🧊FROZEN```
-  - [Welcome64](https://github.com/dron12261games/WAD-Welcome64) ```STATUS: ⛔CANCELLED```
-  - [Map for Blocked-Out Community Project](https://github.com/dron12261games/WAD-Blocked-Out) ```STATUS: ⛔CANCELLED```
-  - [The Dark Side of Phobos REMAKE](https://github.com/dron12261games/WAD-TDSOP-Remake) ```STATUS: ⛔CANCELLED```
-  - [Maps for Nomakh's Mapping Workshop Project](https://github.com/dron12261games/WAD-NMW-Maps) ```STATUS: ⛔CANCELLED```
-  - [Go 2 Id](https://github.com/dron12261games/WAD-Go-2-Id) ```STATUS: ⛔CANCELLED```
-  - [Eternity Engine Test Field](https://github.com/dron12261games/WAD-Eternity-Engine-Test-Field) ```STATUS: 💼STORAGE ONLY```
-- Resources (`RES-`):
-  - [Big COLORMAPs Pack for Eternity Engine (colored sector lighting and colored fog)](https://github.com/dron12261games/RES-Big-Colormap-Pack-for-Eternity-Engine) ```STATUS: ✅RELEASED```
-  - [WraithCorp Textures](https://github.com/dron12261games/RES-WraithCorpTex) ```STATUS: ✅RELEASED```
-  - [DOOM PSX Textures](https://github.com/dron12261games/RES-PSXTex) ```STATUS: ✅RELEASED```
-  - [Lighting Textures](https://github.com/dron12261games/RES-Lighting-Textures) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
-  - [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) ```STATUS: ✅RELEASED``` | ```Latest Version: Beta 2 fix 2```
-  - [CyberTechTEX](https://github.com/dron12261games/RES-CyberTechTEX) ```STATUS: ✅RELEASED```
-  - [DRON12261 Announcer](https://github.com/dron12261games/RES-DRON12261-Announcer) ```STATUS: ✅RELEASED``` | ```Latest Version: v1```
-  - [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) ```STATUS: 🏁WORK IN PROGRESS```
-  - [OTEX Extra Textures](https://github.com/dron12261games/RES-OTEX-EXTRA) ```STATUS: 🧊FROZEN```
-- Software (`SFT-`):
-  - [Dron's Doom Utils](https://github.com/dron12261games/SFT-DronsDoomUtils) ```STATUS: 📦EARLY RELEASE``` | ```Latest Version: v0.2```
-  - [GZDoom Classic [Correctly Preconfigured Build]](https://github.com/dron12261games/SFT-GZDoom-Classic) ```STATUS: ✅RELEASED``` | ```Latest Version: v4```
-- Community Projects (`CPL-`):
-  - [Russian Random Speedmap Pack #1](https://github.com/dron12261games/CPL-RRSP1)  ```STATUS: ✅RELEASED```
-  - [Russian Random Speedmap Pack #2](https://github.com/dron12261games/CPL-RRSP2)  ```STATUS: ✅RELEASED```
-  - [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3)  ```STATUS: ✅RELEASED```
-- Gifts for me (`GFT-`):
-  - [Gift for DRON12261](https://github.com/dron12261games/GFT-Gift-for-DRON12261) ```STATUS: ✅RELEASED```
-- Other (`OTH-`):
-  - [Demo walkthroughs by DRON12261](https://github.com/dron12261games/OTH-Demos-by-DRON12261) ```STATUS: 💼STORAGE ONLY```
-  - [Other random unreleased/unfinished/test things](https://github.com/dron12261games/OTH-My-Random-Stuff) ```STATUS: 💼STORAGE ONLY```
+Mods (`MOD-`) :
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) | ```✅RELEASED``` | ```v6``` |
+| 2 | [VHS&CRT Shader Mod](https://github.com/dron12261games/MOD-VHS-CRT-Shader-by-DRON12261) | ```✅RELEASED``` | ```v2``` |
+| 3 | [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) | ```🧊FROZEN``` | ```v0.1``` |
+| 4 | DOOM Death Calls | ```🧊FROZEN``` | ```PUBLICLY UNAVAILABLE``` |
+
+WADs (`WAD-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [DOOM PSX: Damnation of Eternity (🏆EMC2024 Winner🥈🏆)](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024) | ```✅RELEASED``` |  |
+| 2 | [Scythe Reforged](https://github.com/dron12261games/WAD-Scythe-Reforged) | ```✅RELEASED``` |  |
+| 3 | [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) | ```✅RELEASED``` | ```v7``` |
+| 4 | [Hotel of the Dead](https://github.com/dron12261games/WAD-Hotel-of-the-Dead) | ```✅RELEASED``` | ```v4``` |
+| 5 | [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) | ```✅RELEASED``` |  |
+| 6 | [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) | ```✅RELEASED``` |  |
+| 7 | [Light! Camera! BOOM!](https://github.com/dron12261games/WAD-Light-Camera-BOOM) | ```✅RELEASED``` |  |
+| 8 | [ShovelDM Maps (MAP02, MAP05, MAP09)](https://github.com/dron12261games/WAD-ShovelDM-Maps) | ```✅RELEASED``` |  |
+| 9 | [Metallic Highway CTF (feat EXWiz)](https://github.com/dron12261games/WAD-Metallic-Highway) | ```✅RELEASED``` |  |
+| 10 | [Monumentum](https://github.com/dron12261games/WAD-Monumentum) | ```✅RELEASED``` |  |
+| 11 | [Definitive Doom](https://github.com/dron12261games/WAD-Definitive-Doom) | ```📦EARLY RELEASE``` | ```v0.1``` |
+| 12 | [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) | ```📦EARLY RELEASE``` | ```v4``` |
+| 13 | [The Living Abyss on my Painting](https://github.com/dron12261games/WAD-The-Living-Abyss-in-my-Painting) | ```🏁WIP``` |  |
+| 14 | [Collapsing Dreams](https://github.com/dron12261games/WAD-Collapsing-Dreams) | ```🏁WIP``` |  |
+| 15 | [Mountain of Fears](https://github.com/dron12261games/WAD-Mountain-of-Fears) | ```🏁WIP``` |  |
+| 16 | [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) | ```🧊FROZEN``` |  |
+| 17 | [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) | ```🧊FROZEN``` |  |
+| 18 | [DOOM PSX: Frontier of Agony](https://github.com/dron12261games/WAD-DOOM-PSX-Frontier-of-Agony) | ```🧊FROZEN``` |  |
+| 19 | [MidNightmare](https://github.com/dron12261games/WAD-MidNightmare) | ```🧊FROZEN``` |  |
+| 20 | [Purity of Fame](https://github.com/dron12261games/WAD-Purity-of-Fame) | ```🧊FROZEN``` |  |
+| 21 | [Remember 2 it](https://github.com/dron12261games/WAD-Remember-2-it) | ```🧊FROZEN``` |  |
+| 22 | [Eternity Engine Colormaps Tech Demo](https://github.com/dron12261games/WAD-Eternity-Engine-Colormaps-Tech-Demo) | ```⛔CANCELLED``` |  |
+| 23 | [Egeon's Awakening](https://github.com/dron12261games/WAD-Egeons-Awakening) | ```⛔CANCELLED``` |  |
+| 24 | [Welcome64](https://github.com/dron12261games/WAD-Welcome64) | ```⛔CANCELLED``` |  |
+| 25 | [Map for Blocked-Out Community Project](https://github.com/dron12261games/WAD-Blocked-Out) | ```⛔CANCELLED``` |  |
+| 26 | [The Dark Side of Phobos REMAKE](https://github.com/dron12261games/WAD-TDSOP-Remake) | ```⛔CANCELLED``` |  |
+| 27 | [Maps for Nomakh's Mapping Workshop Project](https://github.com/dron12261games/WAD-NMW-Maps) | ```⛔CANCELLED``` |  |
+| 28 | [Go 2 Id](https://github.com/dron12261games/WAD-Go-2-Id) | ```⛔CANCELLED``` |  |
+
+Resources (`RES-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [Big COLORMAPs Pack for Eternity Engine (colored sector lighting and colored fog)](https://github.com/dron12261games/RES-Big-Colormap-Pack-for-Eternity-Engine) | ```✅RELEASED``` |  |
+| 2 | [WraithCorp Textures](https://github.com/dron12261games/RES-WraithCorpTex) | ```✅RELEASED``` |  |
+| 3 | [DOOM PSX Textures](https://github.com/dron12261games/RES-PSXTex) | ```✅RELEASED``` |  |
+| 4 | [Lighting Textures](https://github.com/dron12261games/RES-Lighting-Textures) | ```✅RELEASED``` |  |
+| 5 | [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) | ```✅RELEASED``` | ```Beta 2 fix 2``` |
+| 6 | [CyberTechTEX](https://github.com/dron12261games/RES-CyberTechTEX) | ```✅RELEASED``` |  |
+| 7 | [DRON12261 Announcer](https://github.com/dron12261games/RES-DRON12261-Announcer) | ```✅RELEASED``` |  |
+| 8 | [ETERNUM Resource Pack for Eternity Engine](https://github.com/dron12261games/RES-Eternum-Resource-Pack) | ```🏁WIP``` |  |
+| 9 | [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) | ```⛔CANCELLED``` |  |
+| 10 | [OTEX Extra Textures](https://github.com/dron12261games/RES-OTEX-EXTRA) | ```⛔CANCELLED``` |  |
+
+Software (`SFT-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [GZDoom Classic [Correctly Preconfigured Build]](https://github.com/dron12261games/SFT-GZDoom-Classic) | ```✅RELEASED``` | ```v4``` |
+| 2 | [Dron's Doom Utils](https://github.com/dron12261games/SFT-DronsDoomUtils) | ```🧊FROZEN``` | ```v0.2``` |
+
+Community Projects (`CPL-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [Russian Random Speedmap Pack #1](https://github.com/dron12261games/CPL-RRSP1) | ```✅RELEASED``` |  |
+| 2 | [Russian Random Speedmap Pack #2](https://github.com/dron12261games/CPL-RRSP2) | ```✅RELEASED``` |  |
+| 3 | [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3) | ```✅RELEASED``` | ```v1.0.7``` |
+| 4 | [Russian Random Speedmap Pack #4](https://github.com/dron12261games/CPL-RRSP4) | ```🧊FROZEN``` |  |
+
+Gifts for me (`GFT-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [Gift for DRON12261](https://github.com/dron12261games/GFT-Gift-for-DRON12261) | ```✅RELEASED``` |  |
+
+Other (`OTH-`):
+| № | PROJECT NAME | STATUS | VERSION |
+| :---: | :--- | :---: | :---: |
+| 1 | [Demo walkthroughs by DRON12261](https://github.com/dron12261games/OTH-Demos-by-DRON12261) | ```💼STORAGE ONLY``` |  |
+| 2 | [Other random unreleased/unfinished/test things](https://github.com/dron12261games/OTH-My-Random-Stuff) | ```💼STORAGE ONLY``` |  |
+| 3 | [Eternity Engine Test Field](https://github.com/dron12261games/WAD-Eternity-Engine-Test-Field) | ```💼STORAGE ONLY``` |  |
 
 ### If you want to support me and my creativity:
 Donation Alerts: https://www.donationalerts.com/r/dron12261
