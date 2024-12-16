@@ -77,7 +77,7 @@ Software (`SFT-`):
 | № | PROJECT NAME | STATUS | VERSION |
 | :---: | :--- | :---: | :---: |
 | 1 | [GZDoom Classic [Correctly Preconfigured Build]](https://github.com/dron12261games/SFT-GZDoom-Classic) | ```✅RELEASED``` | ```v4``` |
-| 2 | [Dron's Doom Utils](https://github.com/dron12261games/SFT-DronsDoomUtils) | ```🧊FROZEN``` | ```v0.2``` |
+| 2 | [Dron's Doom Utils](https://github.com/dron12261games/SFT-DronsDoomUtils) | ```📦EARLY RELEASE``` | ```v0.2``` |
 
 Community Projects (`CPL-`):
 | № | PROJECT NAME | STATUS | VERSION |
