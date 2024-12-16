@@ -69,8 +69,8 @@ Resources (`RES-`):
 | 5 | [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) | ```✅RELEASED``` | ```Beta 2 fix 2``` |
 | 6 | [CyberTechTEX](https://github.com/dron12261games/RES-CyberTechTEX) | ```✅RELEASED``` |  |
 | 7 | [DRON12261 Announcer](https://github.com/dron12261games/RES-DRON12261-Announcer) | ```✅RELEASED``` |  |
-| 8 | [ETERNUM Resource Pack for Eternity Engine](https://github.com/dron12261games/RES-Eternum-Resource-Pack) | ```🏁WIP``` |  |
-| 9 | [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) | ```⛔CANCELLED``` |  |
+| 8 | [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) | ```📦EARLY RELEASE``` |  |
+| 9 | [ETERNUM Resource Pack for Eternity Engine](https://github.com/dron12261games/RES-Eternum-Resource-Pack) | ```🏁WIP``` |  |
 | 10 | [OTEX Extra Textures](https://github.com/dron12261games/RES-OTEX-EXTRA) | ```⛔CANCELLED``` |  |
 
 Software (`SFT-`):
