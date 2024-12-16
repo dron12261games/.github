@@ -1,9 +1,9 @@
-# dron12261games
+![Logo](./dron12261games.png)
 
 ### Hi. I'm DRON12261 (Andrey Skochko) - a level designer, modder, programmer, a little bit of graphic artist and game developer.  Welcome to the vault of my projects related to Doom and not only. There are gameplay mods and full-fledged maps to play through, as well as resource packs for mapping and modding, and entire large community projects. Here you can also see my projects that are in progress or have been canceled and not posted anywhere else.
 
-### My youtube channel: [Youtube](https://www.youtube.com/@dron12261)
-### My wiki page: [Doom Wiki](https://doomwiki.org/wiki/Andrey_Skochko_(DRON12261))
+My youtube channel: [Youtube](https://www.youtube.com/@dron12261)
+My wiki page: [Doom Wiki](https://doomwiki.org/wiki/Andrey_Skochko_(DRON12261))
 
 ### To other authors of their projects:
 You can take whatever you want from the repository for your projects, BUT you must put my authorship in your project, AND if my project that you take something from also has its `CREDITS.txt`, `README.TXT`, etc. (either in the repository itself, or inside .wad, .pke, .pk3, etc.) with the description of other authors, you must necessarily study it and put the corresponding authorship of the resource that you take from the project. There is no need to ask me for any permission, just try to adhere to this rule, it will be more than enough.
