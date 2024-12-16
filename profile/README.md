@@ -34,18 +34,18 @@ WADs (`WAD-`):
 | :---: | :--- | :---: | :---: |
 | 1 | [DOOM PSX: Damnation of Eternity (🏆EMC2024 Winner🥈🏆)](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024) | ```✅RELEASED``` |  |
 | 2 | [Scythe Reforged - Teaser [MAP20]](https://github.com/dron12261games/WAD-Scythe-Reforged) | ```✅RELEASED``` |  |
-| 3 | [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) | ```✅RELEASED``` | ```v5``` |
+| 3 | [The Lost Shores (MAP07 for Constriction 1024)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) | ```✅RELEASED``` | ```v5``` |
 | 4 | [Hotel of the Dead](https://github.com/dron12261games/WAD-Hotel-of-the-Dead) | ```✅RELEASED``` | ```v4``` |
 | 5 | [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) | ```✅RELEASED``` |  |
-| 6 | [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) | ```✅RELEASED``` |  |
+| 6 | [Marching in the Darkness (E2M5 for Death by 1000 Lines)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) | ```✅RELEASED``` |  |
 | 7 | [Light! Camera! BOOM!](https://github.com/dron12261games/WAD-Light-Camera-BOOM) | ```✅RELEASED``` |  |
 | 8 | [ShovelDM Maps (MAP02, MAP05, MAP09)](https://github.com/dron12261games/WAD-ShovelDM-Maps) | ```✅RELEASED``` |  |
-| 9 | [Metallic Highway CTF (feat EXWiz)](https://github.com/dron12261games/WAD-Metallic-Highway) | ```✅RELEASED``` |  |
-| 10 | [Monumentum](https://github.com/dron12261games/WAD-Monumentum) | ```✅RELEASED``` |  |
+| 9 | [Metallic Highway CTF (feat EXWiz, MAP04 for FrenzyCTF)](https://github.com/dron12261games/WAD-Metallic-Highway) | ```✅RELEASED``` |  |
+| 10 | [Monumentum (Old map piece for UNFINISHED.WAD)](https://github.com/dron12261games/WAD-Monumentum) | ```✅RELEASED``` |  |
 | 11 | [Definitive Doom](https://github.com/dron12261games/WAD-Definitive-Doom) | ```📦EARLY RELEASE``` | ```v0.1``` |
 | 12 | [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) | ```📦EARLY RELEASE``` | ```v4``` |
 | 13 | [The Living Abyss on my Painting](https://github.com/dron12261games/WAD-The-Living-Abyss-in-my-Painting) | ```🏁WIP``` |  |
-| 14 | [Collapsing Dreams](https://github.com/dron12261games/WAD-Collapsing-Dreams) | ```🏁WIP``` |  |
+| 14 | [Collapsing Dreams (MAP32 for Laocoön Quick Maps)](https://github.com/dron12261games/WAD-Collapsing-Dreams) | ```🏁WIP``` |  |
 | 15 | [Mountain of Fears](https://github.com/dron12261games/WAD-Mountain-of-Fears) | ```🏁WIP``` |  |
 | 16 | [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) | ```🧊FROZEN``` |  |
 | 17 | [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) | ```🧊FROZEN``` |  |
