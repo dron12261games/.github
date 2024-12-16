@@ -32,7 +32,7 @@ WADs (`WAD-`):
 | :---: | :--- | :---: | :---: |
 | 1 | [DOOM PSX: Damnation of Eternity (🏆EMC2024 Winner🥈🏆)](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024) | ```✅RELEASED``` |  |
 | 2 | [Scythe Reforged](https://github.com/dron12261games/WAD-Scythe-Reforged) | ```✅RELEASED``` |  |
-| 3 | [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) | ```✅RELEASED``` | ```v7``` |
+| 3 | [Constriction 1024 (MAP07)](https://github.com/dron12261games/WAD-Constriction1024-MAP07) | ```✅RELEASED``` | ```v5``` |
 | 4 | [Hotel of the Dead](https://github.com/dron12261games/WAD-Hotel-of-the-Dead) | ```✅RELEASED``` | ```v4``` |
 | 5 | [Tribute Quilt Community Project (E4M7 and E4M9 pieces)](https://github.com/dron12261games/WAD-Tribute-Quilt-Pieces) | ```✅RELEASED``` |  |
 | 6 | [Death by 1000 Lines (E2M5)](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5) | ```✅RELEASED``` |  |
