@@ -68,7 +68,7 @@ Resources (`RES-`):
 | 2 | [WraithCorp Textures](https://github.com/dron12261games/RES-WraithCorpTex) | ```✅RELEASED``` |  |
 | 3 | [DOOM PSX Textures](https://github.com/dron12261games/RES-PSXTex) | ```✅RELEASED``` |  |
 | 4 | [Lighting Textures](https://github.com/dron12261games/RES-Lighting-Textures) | ```✅RELEASED``` |  |
-| 5 | [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) | ```✅RELEASED``` | ```Beta 2 fix 2``` |
+| 5 | [UltimateDTex](https://github.com/dron12261games/RES-UltimateDTex) | ```✅RELEASED``` | ```Beta 3``` |
 | 6 | [CyberTechTEX](https://github.com/dron12261games/RES-CyberTechTEX) | ```✅RELEASED``` |  |
 | 7 | [DRON12261 Announcer](https://github.com/dron12261games/RES-DRON12261-Announcer) | ```✅RELEASED``` |  |
 | 8 | [ColossalDTex [8200+ Texture Pack]](https://github.com/dron12261games/RES-ColossalDTex) | ```📦EARLY RELEASE``` |  |
