@@ -18,7 +18,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - `GFT-` - This repository contains projects not made by me, but made as a gift for me by the community.
 - `OTH-` - This repository contains all sorts of other things.
 
-Updated as of `16 December 2024`.
+Updated as of `21 December 2024`.
 
 ### List of my projects:
 Mods (`MOD-`) :
