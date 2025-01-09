@@ -47,7 +47,7 @@ WADs (`WAD-`):
 | 13 | [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) | ```📦EARLY RELEASE``` | ```v4``` |
 | 14 | [The Living Abyss on my Painting](https://github.com/dron12261games/WAD-The-Living-Abyss-in-my-Painting) | ```🏁WIP``` |  |
 | 15 | [Collapsing Dreams (MAP32 for Laocoön Quick Maps)](https://github.com/dron12261games/WAD-Collapsing-Dreams) | ```🏁WIP``` |  |
-| 16 | [Toxicomplexis](https://github.com/dron12261games/WAD-Toxicomplexis) | ```🏁WIP``` |  |
+| 16 | [Toxicomplexis (MWG style map for "Who is Who" project)](https://github.com/dron12261games/WAD-Toxicomplexis) | ```🏁WIP``` |  |
 | 17 | [Mountain of Fears](https://github.com/dron12261games/WAD-Mountain-of-Fears) | ```🏁WIP``` |  |
 | 18 | [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) | ```🧊FROZEN``` |  |
 | 19 | [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) | ```🧊FROZEN``` |  |
