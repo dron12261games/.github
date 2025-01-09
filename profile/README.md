@@ -18,7 +18,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - `GFT-` - This repository contains projects not made by me, but made as a gift for me by the community.
 - `OTH-` - This repository contains all sorts of other things.
 
-Updated as of `21 December 2024`.
+Updated as of `9 January 2025`.
 
 ### List of my projects:
 Mods (`MOD-`) :
@@ -47,20 +47,21 @@ WADs (`WAD-`):
 | 13 | [DRON12261 DM Pack](https://github.com/dron12261games/WAD-DRON12261-DM-Pack) | ```📦EARLY RELEASE``` | ```v4``` |
 | 14 | [The Living Abyss on my Painting](https://github.com/dron12261games/WAD-The-Living-Abyss-in-my-Painting) | ```🏁WIP``` |  |
 | 15 | [Collapsing Dreams (MAP32 for Laocoön Quick Maps)](https://github.com/dron12261games/WAD-Collapsing-Dreams) | ```🏁WIP``` |  |
-| 16 | [Mountain of Fears](https://github.com/dron12261games/WAD-Mountain-of-Fears) | ```🏁WIP``` |  |
-| 17 | [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) | ```🧊FROZEN``` |  |
-| 18 | [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) | ```🧊FROZEN``` |  |
-| 19 | [DOOM PSX: Frontier of Agony](https://github.com/dron12261games/WAD-DOOM-PSX-Frontier-of-Agony) | ```🧊FROZEN``` |  |
-| 20 | [MidNightmare](https://github.com/dron12261games/WAD-MidNightmare) | ```🧊FROZEN``` |  |
-| 21 | [Purity of Fame](https://github.com/dron12261games/WAD-Purity-of-Fame) | ```🧊FROZEN``` |  |
-| 22 | [Remember 2 it](https://github.com/dron12261games/WAD-Remember-2-it) | ```🧊FROZEN``` |  |
-| 23 | [Eternity Engine Colormaps Tech Demo](https://github.com/dron12261games/WAD-Eternity-Engine-Colormaps-Tech-Demo) | ```⛔CANCELLED``` |  |
-| 24 | [Egeon's Awakening](https://github.com/dron12261games/WAD-Egeons-Awakening) | ```⛔CANCELLED``` |  |
-| 25 | [Welcome64](https://github.com/dron12261games/WAD-Welcome64) | ```⛔CANCELLED``` |  |
-| 26 | [Map for Blocked-Out Community Project](https://github.com/dron12261games/WAD-Blocked-Out) | ```⛔CANCELLED``` |  |
-| 27 | [The Dark Side of Phobos REMAKE](https://github.com/dron12261games/WAD-TDSOP-Remake) | ```⛔CANCELLED``` |  |
-| 28 | [Maps for Nomakh's Mapping Workshop Project](https://github.com/dron12261games/WAD-NMW-Maps) | ```⛔CANCELLED``` |  |
-| 29 | [Go 2 Id](https://github.com/dron12261games/WAD-Go-2-Id) | ```⛔CANCELLED``` |  |
+| 16 | [Toxicomplexis](https://github.com/dron12261games/WAD-Toxicomplexis) | ```🏁WIP``` |  |
+| 17 | [Mountain of Fears](https://github.com/dron12261games/WAD-Mountain-of-Fears) | ```🏁WIP``` |  |
+| 18 | [Hotel of the Dead PSX](https://github.com/dron12261games/WAD-Hotel-of-the-Dead-PSX) | ```🧊FROZEN``` |  |
+| 19 | [Perdition's Gate: Flashback](https://github.com/dron12261games/WAD-Perditions-Gate-Flashback) | ```🧊FROZEN``` |  |
+| 20 | [DOOM PSX: Frontier of Agony](https://github.com/dron12261games/WAD-DOOM-PSX-Frontier-of-Agony) | ```🧊FROZEN``` |  |
+| 21 | [MidNightmare](https://github.com/dron12261games/WAD-MidNightmare) | ```🧊FROZEN``` |  |
+| 22 | [Purity of Fame](https://github.com/dron12261games/WAD-Purity-of-Fame) | ```🧊FROZEN``` |  |
+| 23 | [Remember 2 it](https://github.com/dron12261games/WAD-Remember-2-it) | ```🧊FROZEN``` |  |
+| 24 | [Eternity Engine Colormaps Tech Demo](https://github.com/dron12261games/WAD-Eternity-Engine-Colormaps-Tech-Demo) | ```⛔CANCELLED``` |  |
+| 25 | [Egeon's Awakening](https://github.com/dron12261games/WAD-Egeons-Awakening) | ```⛔CANCELLED``` |  |
+| 26 | [Welcome64](https://github.com/dron12261games/WAD-Welcome64) | ```⛔CANCELLED``` |  |
+| 27 | [Map for Blocked-Out Community Project](https://github.com/dron12261games/WAD-Blocked-Out) | ```⛔CANCELLED``` |  |
+| 28 | [The Dark Side of Phobos REMAKE](https://github.com/dron12261games/WAD-TDSOP-Remake) | ```⛔CANCELLED``` |  |
+| 29 | [Maps for Nomakh's Mapping Workshop Project](https://github.com/dron12261games/WAD-NMW-Maps) | ```⛔CANCELLED``` |  |
+| 30 | [Go 2 Id](https://github.com/dron12261games/WAD-Go-2-Id) | ```⛔CANCELLED``` |  |
 
 Resources (`RES-`):
 | № | PROJECT NAME | STATUS | VERSION |
