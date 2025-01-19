@@ -89,7 +89,8 @@ Community Projects (`CPL-`):
 | 1 | [Russian Random Speedmap Pack #1](https://github.com/dron12261games/CPL-RRSP1) | ```✅RELEASED``` |  |
 | 2 | [Russian Random Speedmap Pack #2](https://github.com/dron12261games/CPL-RRSP2) | ```✅RELEASED``` |  |
 | 3 | [Russian Random Speedmap Pack #3](https://github.com/dron12261games/CPL-RRSP3) | ```✅RELEASED``` | ```v1.0.7``` |
-| 4 | [Russian Random Speedmap Pack #4](https://github.com/dron12261games/CPL-RRSP4) | ```🧊FROZEN``` |  |
+| 4 | [WhoIsWho](https://github.com/dron12261games/CPL-WhoIsWho) | ```✅RELEASED``` |  |
+| 5 | [Russian Random Speedmap Pack #4](https://github.com/dron12261games/CPL-RRSP4) | ```🧊FROZEN``` |  |
 
 Gifts for me (`GFT-`):
 | № | PROJECT NAME | STATUS | VERSION |
