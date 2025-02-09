@@ -18,7 +18,7 @@ You can take whatever you want from the repository for your projects, BUT you mu
 - `GFT-` - This repository contains projects not made by me, but made as a gift for me by the community.
 - `OTH-` - This repository contains all sorts of other things.
 
-Updated as of `9 January 2025`.
+Updated as of `9 Fedruary 2025`.
 
 ### List of my projects:
 Mods (`MOD-`) :
@@ -26,8 +26,9 @@ Mods (`MOD-`) :
 | :---: | :--- | :---: | :---: |
 | 1 | [VanillaPSX](https://github.com/dron12261games/MOD-VanillaPSX) | ```✅RELEASED``` | ```v6``` |
 | 2 | [VHS&CRT Shader Mod](https://github.com/dron12261games/MOD-VHS-CRT-Shader-by-DRON12261) | ```✅RELEASED``` | ```v2``` |
-| 3 | [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) | ```🧊FROZEN``` | ```v0.1``` |
-| 4 | DOOM Death Calls | ```🧊FROZEN``` | ```PUBLICLY UNAVAILABLE``` |
+| 3 | [UAC Tactical HUD](https://github.com/dron12261games/MOD-UAC-Tactical-HUD) | ```✅RELEASED``` | ```v1``` |
+| 4 | [Complex Doom Evolved](https://github.com/dron12261games/MOD-Complex-Doom-Evolved) | ```🧊FROZEN``` | ```v0.1``` |
+| 5 | DOOM Death Calls | ```🧊FROZEN``` | ```PUBLICLY UNAVAILABLE``` |
 
 WADs (`WAD-`):
 | № | PROJECT NAME | STATUS | VERSION |
