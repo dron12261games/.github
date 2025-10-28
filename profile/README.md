@@ -108,5 +108,10 @@ Other (`OTH-`):
 
 ### If you want to support me and my creativity:
 Donation Alerts: https://www.donationalerts.com/r/dron12261
+DALink: https://dalink.to/dron12261
 
+Donation Alerts:
+<img src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" data-canonical-src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" width="200" height="200" />
+
+DALink:
 <img src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" data-canonical-src="https://static.donationalerts.ru/uploads/qr/3225384/qr_f7b0f52cc482781acc8eaadd5cfb97d3.png" width="200" height="200" />
