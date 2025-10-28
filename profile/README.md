@@ -106,15 +106,9 @@ Other (`OTH-`):
 | 2 | [Other random unreleased/unfinished/test things](https://github.com/dron12261games/OTH-My-Random-Stuff) | ```💼STORAGE ONLY``` |  |
 | 3 | [Eternity Engine Test Field](https://github.com/dron12261games/WAD-Eternity-Engine-Test-Field) | ```💼STORAGE ONLY``` |  |
 
-### If you want to support me and my creativity:
-Donation Alerts: https://www.donationalerts.com/r/dron12261
+## If you want to support me and my creativity:
+Donation Alerts: https://www.donationalerts.com/r/dron12261  
+![Donation Alerts QR](https://github.com/dron12261games/.github/blob/main/donationalerts-qr-code.png?raw=trueg)
 
-DALink: https://dalink.to/dron12261
-
-Donation Alerts:
-
-<img src="./donationalerts-qr-code.png" data-canonical-src="./donationalerts-qr-code.png" width="200" height="200" />
-
-DALink:
-
-<img src="./dalink-qr-code.png" data-canonical-src="./dalink-qr-code.png" width="200" height="200" />
+DALink: https://dalink.to/dron12261  
+![DALink QR](https://github.com/dron12261games/.github/blob/main/dalink-qr-code.png?raw=true)
